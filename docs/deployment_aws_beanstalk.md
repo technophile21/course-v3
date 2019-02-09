@@ -14,7 +14,7 @@ wget https://github.com/fastai/course-v3/raw/master/docs/production/aws-beanstal
 
 unzip aws-beanstalk.zip
 
-cd aws-beanstalk.zip
+cd app
 ```
 
 ## Per-project setup
@@ -103,7 +103,7 @@ In case you want to run the app server locally, or make any changes to the above
 
 ```bash
 python app/server.py serve
-
+```
 
 Go to http://localhost:8080/ to test your app.
 

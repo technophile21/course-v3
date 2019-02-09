@@ -49,6 +49,9 @@ entries:
       title: FloydHub (Easy)
       url: /start_floydhub.html
     - output: web
+      title: Kaggle.com (Easy)
+      url: /start_kaggle.html
+    - output: web
       title: Google Cloud (Intermediate)
       url: /start_gcp.html
     - output: web
@@ -79,6 +82,9 @@ entries:
       title: FloydHub
       url: /update_floydhub.html
     - output: web
+      title: Kaggle
+      url: /update_kaggle.html
+    - output: web
       title: Colab
       url: /update_colab.html
     - output: web
@@ -99,9 +105,6 @@ entries:
     - output: web
       title: Render
       url: /deployment_render.html
-    - output: web
-      title: Zeit
-      url: /deployment_zeit.html
     - output: web
       title: AWS BeanStalk
       url: /deployment_aws_beanstalk.html
