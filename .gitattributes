@@ -1,3 +1,7 @@
 *.ipynb filter=fastai-nbstripout-docs
 
 *.ipynb diff=ipynb-docs
+
+*.ipynb	diff=jupyternotebook
+
+*.ipynb	merge=jupyternotebook
